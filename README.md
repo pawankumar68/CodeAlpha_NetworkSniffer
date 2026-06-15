@@ -58,7 +58,13 @@ Source Port    : 52022
 Destination Port: 443
 ```
 
-Screenshots of the code and output are available in the `screenshots/` folder.
+## Screenshots
+
+### Code
+![Code](screenshots/code.png)
+
+### Output
+![Output](screenshots/output.png)
 
 ## ⚠️ Disclaimer
 
